@@ -20,6 +20,7 @@ public class HelloWorldStreamHandler extends SkillStreamHandler {
 	public HelloWorldStreamHandler() {
 		super(getSkill());
 		//branch
+		//branch2
 		// TODO Auto-generated constructor stub
 	}
 
